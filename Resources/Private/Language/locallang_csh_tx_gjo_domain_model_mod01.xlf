@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-05-15T07:23:10Z" product-name="gjo">
+		<header/>
+		<body>
+			
+            
+			<trans-unit id="string.description">
+				<source>string</source>
+			</trans-unit>
+			<trans-unit id="text.description">
+				<source>text</source>
+			</trans-unit>
+			<trans-unit id="richtext.description">
+				<source>richtext</source>
+			</trans-unit>
+			<trans-unit id="integer_prop.description">
+				<source>integerProp</source>
+			</trans-unit>
+			<trans-unit id="gleikomma.description">
+				<source>gleikomma</source>
+			</trans-unit>
+			<trans-unit id="bool.description">
+				<source>bool</source>
+			</trans-unit>
+			<trans-unit id="datum.description">
+				<source>datum</source>
+			</trans-unit>
+			<trans-unit id="datumundzeit.description">
+				<source>datumundzeit</source>
+			</trans-unit>
+			<trans-unit id="natives_datum.description">
+				<source>nativesDatum</source>
+			</trans-unit>
+			<trans-unit id="natives_datum_und_zeit.description">
+				<source>nativesDatumUndZeit</source>
+			</trans-unit>
+			<trans-unit id="zeit.description">
+				<source>zeit</source>
+			</trans-unit>
+			<trans-unit id="zeit_sekunden.description">
+				<source>zeitSekunden</source>
+			</trans-unit>
+			<trans-unit id="auswahllsite.description">
+				<source>auswahllsite</source>
+			</trans-unit>
+			<trans-unit id="datei.description">
+				<source>datei</source>
+			</trans-unit>
+			<trans-unit id="bild.description">
+				<source>bild</source>
+			</trans-unit>
+			<trans-unit id="dateireferenz.description">
+				<source>dateireferenz</source>
+			</trans-unit>
+			<trans-unit id="ordner.description">
+				<source>ordner</source>
+			</trans-unit>
+			<trans-unit id="passwort.description">
+				<source>passwort</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

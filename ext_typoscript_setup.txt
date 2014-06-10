@@ -1,0 +1,16 @@
+
+
+
+config.tx_extbase{
+    persistence{
+        classes{
+
+            Gjo\Gjo\Domain\Model\Mod01 {
+                mapping {
+                    
+                }
+            }
+            
+    	}
+    }
+}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-05-15T07:23:10Z" product-name="gjo">
+		<header/>
+		<body>
+			
+			
+			<trans-unit id="tx_gjo_domain_model_mod01">
+				<source>ddsfds</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.string">
+				<source>string</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.text">
+				<source>text</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.richtext">
+				<source>richtext</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.integer_prop">
+				<source>integerProp</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.gleikomma">
+				<source>gleikomma</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.bool">
+				<source>bool</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.datum">
+				<source>datum</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.datumundzeit">
+				<source>datumundzeit</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.natives_datum">
+				<source>nativesDatum</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.natives_datum_und_zeit">
+				<source>nativesDatumUndZeit</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.zeit">
+				<source>zeit</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.zeit_sekunden">
+				<source>zeitSekunden</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.auswahllsite">
+				<source>auswahllsite</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.datei">
+				<source>datei</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.bild">
+				<source>bild</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.dateireferenz">
+				<source>dateireferenz</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.ordner">
+				<source>ordner</source>
+			</trans-unit>
+			<trans-unit id="tx_gjo_domain_model_mod01.passwort">
+				<source>passwort</source>
+			</trans-unit>
+			
+		</body>
+	</file>
+</xliff>
